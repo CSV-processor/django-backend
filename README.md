@@ -2,7 +2,7 @@
 Cvs (and etc.) export, edit (as tables), import for multiple users at the same time
 
 ## Tasks (By priority)
-
+* ~~Include React~~
 * ~~CSV editor:~~
     * ~~Export CVS~~
     * ~~Import CVS~~
