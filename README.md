@@ -1,5 +1,5 @@
 # Django CSV processor
-Cvs(and etc.) export, edit (as tables), import for multiple users at the same time
+Cvs (and etc.) export, edit (as tables), import for multiple users at the same time
 
 ## Tasks (By priority)
 
