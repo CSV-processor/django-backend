@@ -3,16 +3,14 @@ Cvs (and etc.) export, edit (as tables), import for multiple users at the same t
 
 ## Tasks (By priority)
 
-* Custom admin
-* Flake8
 * ~~CSV editor:~~
     * ~~Export CVS~~
     * ~~Import CVS~~
     * ~~Edit CSV~~
+* ~~Conventional commits~~
 * ~~Multiply users support~~
 * ~~Google registration~~
 * ~~JWT session (example: for registration)~~
 * ~~Export task queue~~
 * ~~Docker compose~~
 * ~~GithubCI~~
-* ~~Conventional commits~~
